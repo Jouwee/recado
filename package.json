@@ -1,0 +1,14 @@
+{
+  "name": "recado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
+}
